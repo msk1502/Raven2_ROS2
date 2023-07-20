@@ -1,0 +1,48 @@
+{
+  "configurations": [
+    {
+      "browse": {
+        "databaseFilename": "${default}",
+        "limitSymbolsToIncludedHeaders": false
+      },
+      "includePath": [
+        "/home/matt/catkin_ws/devel/include/**",
+        "/opt/ros/noetic/include/**",
+        "/home/matt/catkin_ws/src/fetch-picker/ar_track_alvar/ar_track_alvar/include/**",
+        "/home/matt/catkin_ws/src/moveit/moveit_planners/chomp/chomp_motion_planner/include/**",
+        "/home/matt/catkin_ws/src/fetch-picker/fetch_gazebo/fetch_gazebo/include/**",
+        "/home/matt/catkin_ws/src/fetch-picker/fetch_ikfast_plugin/include/**",
+        "/home/matt/catkin_ws/src/geometric_shapes/include/**",
+        "/home/matt/catkin_ws/src/joint_state_reader/include/**",
+        "/home/matt/catkin_ws/src/fetch-picker/madmux/include/**",
+        "/home/matt/catkin_ws/src/manip_proj/include/**",
+        "/home/matt/catkin_ws/src/map_annotator/include/**",
+        "/home/matt/catkin_ws/src/moveit/moveit_planners/chomp/chomp_interface/include/**",
+        "/home/matt/catkin_ws/src/moveit_resources/prbt_ikfast_manipulator_plugin/include/**",
+        "/home/matt/catkin_ws/src/moveit/moveit_ros/benchmarks/include/**",
+        "/home/matt/catkin_ws/src/moveit/moveit_plugins/moveit_ros_control_interface/include/**",
+        "/home/matt/catkin_ws/src/moveit/moveit_ros/move_group/include/**",
+        "/home/matt/catkin_ws/src/moveit/moveit_ros/occupancy_map_monitor/include/**",
+        "/home/matt/catkin_ws/src/moveit/moveit_ros/robot_interaction/include/**",
+        "/home/matt/catkin_ws/src/moveit/moveit_ros/moveit_servo/include/**",
+        "/home/matt/catkin_ws/src/moveit/moveit_setup_assistant/include/**",
+        "/home/matt/catkin_ws/src/moveit/moveit_plugins/moveit_simple_controller_manager/include/**",
+        "/home/matt/catkin_ws/src/moveit_visual_tools/include/**",
+        "/home/matt/catkin_ws/src/fetch-picker/perception/include/**",
+        "/home/matt/catkin_ws/src/moveit/moveit_planners/pilz_industrial_motion_planner/include/**",
+        "/home/matt/catkin_ws/src/moveit/moveit_planners/pilz_industrial_motion_planner_testutils/include/**",
+        "/home/matt/catkin_ws/src/rviz_visual_tools/include/**",
+        "/home/matt/catkin_ws/src/fetch-picker/simple_grasping/include/**",
+        "/home/matt/catkin_ws/src/srdfdom/include/**",
+        "/home/matt/catkin_ws/src/web_teleop/include/**",
+        "/usr/include/**"
+      ],
+      "name": "ROS",
+      "intelliSenseMode": "gcc-x64",
+      "compilerPath": "/usr/bin/gcc",
+      "cStandard": "gnu11",
+      "cppStandard": "c++14"
+    }
+  ],
+  "version": 4
+}
